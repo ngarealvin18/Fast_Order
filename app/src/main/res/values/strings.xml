@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FastOrder</string>
+    <string name="ingredients">fast\n</string>
+    <string name="short_description">short description</string>
+    <string name="select_item_image">select item image\n</string>
+</resources>
